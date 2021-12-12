@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>La mia prima app con Vue CLI!</h1>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
